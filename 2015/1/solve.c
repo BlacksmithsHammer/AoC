@@ -2,8 +2,8 @@
 #include <stdio.h>
 
 int main(void) {
-	char buff[40];
-	int ans = 0,
+	char 	buff[40];
+	int 	ans = 0,
 		buff_ans = 0,
 		len = 0;
 
